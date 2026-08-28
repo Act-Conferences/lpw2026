@@ -1,0 +1,4 @@
+This directory holds logos of sponsors, etc, to be used on the site.
+The 'scaled' directory stores smaller versions of those files, generated
+either with the automator workflow in `convert.workflow` or with the
+Makefile in this directory.
