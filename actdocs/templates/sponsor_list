@@ -58,7 +58,7 @@
 
 <div class="col-xs-12 col-xs-offset-1 text-center;">
     <a href="https://www.perlfoundation.org/">
-        <img src="[% make_uri_info('images/logos/scaled/tprf.png') %]" border="0" alt="Ctrl O" class="img-responsive" style="margin-bottom: 2em;">
+        <img src="[% make_uri_info('images/logos/scaled/tprf-with-text.png') %]" border="0" alt="Ctrl O" class="img-responsive" style="margin-bottom: 2em;">
     </a>
 </div>
 
