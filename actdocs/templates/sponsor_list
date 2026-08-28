@@ -42,6 +42,26 @@
 
 <!-- Silver -->
 
+<div class="col-xs-12" style="margin-bottom: 1em;"><strong>Silver:</strong></div>
+
+<div class="col-xs-12 col-xs-offset-1 text-center;">
+    <a href="https://www.simplelists.com/">
+        <img src="[% make_uri_info('images/logos/scaled/simplelists.png') %]" border="0" alt="Simplelists" class="img-responsive" style="margin-bottom: 2em;">
+    </a>
+</div>
+
+<div class="col-xs-12 col-xs-offset-1 text-center;">
+    <a href="https://www.ctrlo.com/">
+        <img src="[% make_uri_info('images/logos/scaled/ctrlo.png') %]" border="0" alt="Ctrl O" class="img-responsive" style="margin-bottom: 2em;">
+    </a>
+</div>
+
+<div class="col-xs-12 col-xs-offset-1 text-center;">
+    <a href="https://www.perlfoundation.org/">
+        <img src="[% make_uri_info('images/logos/scaled/tprf.png') %]" border="0" alt="Ctrl O" class="img-responsive" style="margin-bottom: 2em;">
+    </a>
+</div>
+
 <!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Silver:</strong></div>
 
