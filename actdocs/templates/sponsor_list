@@ -38,6 +38,14 @@
 
 <!-- Gold -->
 
+<div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
+
+<div class="col-xs-12 col-xs-offset-1 text-center;">
+    <a href="https://company.example/">
+        <img src="[% make_uri_info('images/logos/flutter.png') %]" border="0" alt="Flutter Central & Eastern Europe" class="img-responsive" style="margin-bottom: 3em;">
+    </a>
+</div>
+
 <!--
 <div class="col-xs-12" style="margin-bottom: 1em;"><strong>Gold:</strong></div>
 
